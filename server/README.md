@@ -13,3 +13,4 @@
    > - Cookies: A cookie issue might be that a cookie set by one site is not visible and is not supposed to be leaked to any other sites
    > - CRSF: A CSRF issue applies if you are not getting the proper token from a site when you try to post to that site.
    > - CORS: Policies that control the JavaScript code loaded from one site to make an AJAX call to a different site
+9.
