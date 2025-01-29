@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10" pages="5">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Sample AWS Event-Based">
     <mxGraphModel dx="1166" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v5WV3mev9-ySwh6CIsQ7" name="TPM">
-    <mxGraphModel dx="583" dy="303" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -735,6 +735,115 @@
         </mxCell>
         <mxCell id="wUuTuOrdtxAytnVW2RmN-133" value="&lt;br&gt;&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-fd232106-7fff-cc8e-4e0e-60be28cd7212&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Sales (orders and refunds)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Order_id:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Store_id:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Customer_id:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Product_id:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Category_id:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Region:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Order_date:str&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Quantity:int64&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Unit_price:float64&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Discount:float64&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc; font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:12pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; color: rgb(18, 18, 18); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Total_price:float64&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="63" y="387" width="414" height="183" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="thS6F55X8xBMtsj4Mpvv" name="Page-5">
+    <mxGraphModel dx="777" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vIyp6sjf_UOVyG67Gdf5-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="80" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ie5jX38m3l2FdwRR6R_i-1" value="&lt;b&gt;Security, Identity and Compliance&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=7;fontColor=default;fillColor=default;dashed=1;shadow=0;" vertex="1" parent="vIyp6sjf_UOVyG67Gdf5-12">
+          <mxGeometry width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIyp6sjf_UOVyG67Gdf5-4" value="Cognito" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#dd344c, #bdc7d4);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=8;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cognito;fontFamily=Helvetica;labelPosition=center;" vertex="1" parent="vIyp6sjf_UOVyG67Gdf5-12">
+          <mxGeometry x="75" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vIyp6sjf_UOVyG67Gdf5-7" value="WAF" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=8;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.waf;spacing=-3;" vertex="1" parent="vIyp6sjf_UOVyG67Gdf5-12">
+          <mxGeometry x="15" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vIyp6sjf_UOVyG67Gdf5-10" value="Secrets Mgr" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=9;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.secrets_manager;spacing=-3;" vertex="1" parent="vIyp6sjf_UOVyG67Gdf5-12">
+          <mxGeometry x="135" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-2" value="&lt;b&gt;Sales Report and Forecast&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=7;fontColor=default;fillColor=default;dashed=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-3" value="&lt;font&gt;ECS on Fargate&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#df8c42, #bdc7d4);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=5;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;fontFamily=Helvetica;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="405" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-4" value="ECR" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#df8c42, #bdc7d4);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=5;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecr;fontFamily=Helvetica;labelPosition=center;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="iCk3OldDb9z7Y8XQ6d2u-6" target="iCk3OldDb9z7Y8XQ6d2u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-6" value="Application Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#df8c42, #bdc7d4);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=5;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.application_load_balancer;fontFamily=Helvetica;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-10" value="Reporting" style="whiteSpace=wrap;html=1;fontSize=6;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="448" y="240" width="41" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="iCk3OldDb9z7Y8XQ6d2u-13" target="iCk3OldDb9z7Y8XQ6d2u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-13" value="Amazon Cloudfront" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#df8c42, #bdc7d4);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=7;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;fontFamily=Helvetica;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-14" value="Data Service" style="whiteSpace=wrap;html=1;fontSize=6;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="448" y="280" width="41" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie5jX38m3l2FdwRR6R_i-1" target="iCk3OldDb9z7Y8XQ6d2u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="579" y="250" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-1" value="&lt;b&gt;Data Storage&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=7;fontColor=default;fillColor=default;dashed=1;shadow=0;" vertex="1" parent="R-BkjX5YqmdMiX1EZ1Ma-6">
+          <mxGeometry width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-3" value="Aurora PostgreSQL" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#df8c42, #bdc7d4);dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=5;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.aurora;fontFamily=Helvetica;labelBackgroundColor=default;labelPosition=center;" vertex="1" parent="R-BkjX5YqmdMiX1EZ1Ma-6">
+          <mxGeometry x="18.75" y="64.90909090909089" width="22.5" height="19.090909090909093" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-4" value="&lt;font&gt;Analytics&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.aws_s3;fontFamily=Helvetica;fontSize=5;fontColor=default;labelBackgroundColor=default;textShadow=0;spacing=-3;fontStyle=1" vertex="1" parent="R-BkjX5YqmdMiX1EZ1Ma-6">
+          <mxGeometry x="19.125" y="111.36363636363635" width="21.75" height="18.454545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-5" value="ElastiCache&lt;div&gt;Redis&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=light-dark(#df8c42, #bdc7d4);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;whiteSpace=wrap;fontSize=5;fontStyle=1;spacing=-3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticache_for_redis;labelPosition=center;" vertex="1" parent="R-BkjX5YqmdMiX1EZ1Ma-6">
+          <mxGeometry x="19.125" y="19.090909090909093" width="22.5" height="19.090909090909093" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ3RVmqnkFrBdpMMSBTg-16" value="&lt;b&gt;Data Ingestion Pipeline&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=6;fontColor=default;fillColor=default;dashed=1;shadow=0;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="385" y="328" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-8" value="Data Aggregation" style="whiteSpace=wrap;html=1;fontSize=6;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="354" width="44" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="iCk3OldDb9z7Y8XQ6d2u-7" value="Uploader" style="whiteSpace=wrap;html=1;fontSize=6;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="354" width="44" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="531" y="290" as="sourcePoint" />
+            <mxPoint x="581" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-14" value="Event Trigger/&lt;div&gt;Scheduled Job&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=25.86;notch=15;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="306" y="330" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ3RVmqnkFrBdpMMSBTg-16" target="R-BkjX5YqmdMiX1EZ1Ma-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="355" />
+              <mxPoint x="550" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-16" value="Prediction" style="whiteSpace=wrap;html=1;fontSize=6;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="598" y="208" width="41" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-17" value="Amazon Bedrock" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=6;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" vertex="1" parent="1">
+          <mxGeometry x="700" y="206" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="R-BkjX5YqmdMiX1EZ1Ma-16" target="R-BkjX5YqmdMiX1EZ1Ma-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-20" value="Event Trigger/&lt;div&gt;Scheduled Job&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.49;dx=13.33;notch=9.43;fontSize=4;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="203" width="48" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="R-BkjX5YqmdMiX1EZ1Ma-21" value="Sales Prediction Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontStyle=1;labelPosition=center;verticalLabelPosition=middle;spacing=-1;" vertex="1" parent="1">
+          <mxGeometry x="634" y="208" width="70" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
